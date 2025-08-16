@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Fiction",
+    "Title": "Pride and Prejudice - Jane Austen",
+    "Price": 0,
+    "Category": "Free",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/PrideAndPrejudiceTitlePage.jpg/440px-PrideAndPrejudiceTitlePage.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fantasy",
+    "Title": "Alice's Adventures in Wonderland - Lewis Carroll",
+    "Price": 0,
+    "Category": "Free",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alice%27s_Adventures_in_Wonderland_-_cover_-_1865.jpg/440px-Alice%27s_Adventures_in_Wonderland_-_cover_-_1865.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Classic",
+    "Title": "Moby-Dick - Herman Melville",
+    "Price": 0,
+    "Category": "Free",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Moby-Dick_FE_title_page.jpg/440px-Moby-Dick_FE_title_page.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Adventure",
+    "Title": "Treasure Island - Robert Louis Stevenson",
+    "Price": 0,
+    "Category": "Free",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Treasure_Island_%281884%29.jpg/440px-Treasure_Island_%281884%29.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Science Fiction",
+    "Title": "The War of the Worlds - H. G. Wells",
+    "Price": 0,
+    "Category": "Free",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/War_of_the_Worlds_cover_1898.jpg/440px-War_of_the_Worlds_cover_1898.jpg"
+  }
+
+
+]
